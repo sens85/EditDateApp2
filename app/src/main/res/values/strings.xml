@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EditDateApp</string>
+    <string name="dia">Dia</string>
+    <string name="edit_dia">Edit_dia</string>
+    <string name="EnterDay">EnterDay</string>
+    <string name="mes">Mes</string>
+    <string name="Maig">Maig</string>
+    <string name="any">Any</string>
+    <string name="EnterYear">EnterYear</string>
+    <string name="avui">AVUI</string>
+    <string name="mostra">MOSTRA</string>
+</resources>
